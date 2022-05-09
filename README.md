@@ -25,7 +25,7 @@ Machine learning code in relation to stocks. Tunes hyperparameters and outputs o
   - maxLayers, maxUnits, maxEpochs, maxBatchSize. Hyperparameters that will need to be manualy set recomended vaules are       given in code (recomended values liable to change if the train and test data dates are changed.
   - loopAmount: training a model even with the same data and hyperparams the weights could vairy sometimes leading to           anomilous results or incorrect results and so this allows for hyperparams to be tested multiple times to truley get the       best hyperparameters.
 
-- These variables will be manually set and changes arnt recomended. (future updates may change this)
+- These variables will be manually set and changes arnt recommended. (future updates may change this)
   - featureNo: The amount of features that are used from Yahoo Finance. If changes are made to the defult value, 4, the get     and format data function will need to be modified. 
 
 ### Whilst running
