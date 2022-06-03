@@ -1,4 +1,4 @@
-# Hyperparameter-Tuner
+# HpTunerMSE-day
 
 Machine learning code in relation to stocks. Tunes hyperparameters and outputs optimum parameters.
 
